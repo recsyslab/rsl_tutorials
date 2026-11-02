@@ -41,7 +41,7 @@ $ code
 ## プラグインのインストール
 
 1. VSCodeの左メニューから**拡張機能**を開き、下記の各プラグインをインストールする。
-   - **GitHub Copilot - GitHub**
+   - **GitHub Copilot Chat - GitHub**
    - **Codex – OpenAI’s coding agent**
    - **Claude Code for VS Code**
 
@@ -55,9 +55,14 @@ $ code
 
 ## Claude Code
 
+- ※無料プランではClaude Codeは利用できないため、下記はスキップする。
+
+~~
+
 1. VSCodeエディタツールバー右上の**Claude Code: Open**をクリックする。
 2. **Claude.ai Subscription**をクリックする。
 3. **Claude.ai**にサインインする。
+   ~~
 
 #### 参考
 
