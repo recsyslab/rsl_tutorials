@@ -92,6 +92,6 @@ README.md
 ## Author identityの設定
 
 ```bash
-$ git config --global user.email "y＊＊＊＊＊＊@mail.ryukoku.ac.jp"
 $ git config --global user.name "rsl＊＊＊"
+$ git config --global user.email y＊＊＊＊＊＊@mail.ryukoku.ac.jp
 ```
